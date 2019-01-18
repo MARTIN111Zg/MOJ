@@ -1,2 +1,2 @@
-# MOJ
+# bad
 PUBLIC
